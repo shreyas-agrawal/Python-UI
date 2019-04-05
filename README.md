@@ -1,2 +1,2 @@
 # Python-UI
-include codes of UI developed with python tkinter
+contains codes of UI developed with python tkinter
